@@ -1,0 +1,6 @@
+git init: Inicializa un repositorio Git vacío.
+git clone [url]: Clona un repositorio remoto existente.
+git add [archivo]: Agrega un archivo al área de preparación.
+git commit -m "[mensaje]": Realiza un commit con un mensaje descriptivo.
+git push: Envía los cambios locales al repositorio remoto.
+git pull: Obtiene y fusiona los cambios del repositorio remoto.
