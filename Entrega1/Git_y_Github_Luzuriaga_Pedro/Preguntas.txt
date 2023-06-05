@@ -5,4 +5,4 @@ b. ¿A quién pertenece actualmente Github y por qué?
 -Microsoft. Adquisición para fortalecer desarrollo de software.
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
--
+-Sí, interfaz web, clientes de escritorio, IDEs.
